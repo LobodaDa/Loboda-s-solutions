@@ -11,4 +11,4 @@
 
 ## Задача №3 - Слияние изменений
 
-**ссылка на  репозиторий на GitHub https://github.com/LobodaDa/the-third-task.git**
+**ссылка на  репозиторий на GitHub https://github.com/LobodaDa/task_3.git**
